@@ -32,11 +32,11 @@ Develop SOL-based analytics to deliver detailed insights into
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-## Licise
+## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 
-**About Me**
+## About Me
 
 Hi there! I'm **Bharatheshagouda C Shivanagoudar**. I'm a Data Analyst, Finance professional on a mission to learn and implement Data related skills on my upcoming projects.
